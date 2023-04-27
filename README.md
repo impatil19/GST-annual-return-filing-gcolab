@@ -1,5 +1,5 @@
 # GST-annual-return-filing-gcolab
-
+# Note in my i have named file name as Vinayaka.xlsx and Output file as Vinayaka_agg.xlsx , Name at your convinence
 Filing GST Annaul Return by doing cumbersome calculations is boring let us use Google Colab to get our work done
 
 Step1 : 
